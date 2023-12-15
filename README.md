@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Sobre mim
-Olá, abaixo estão algumas coisas sobre mim.\n
+Olá, abaixo estão algumas coisas sobre mim.
+
+
 Coisas relacionadas a programação:
 * Gosto de programar. Linguagens favoritas: C#, Java e JavaScript. Ainda quero terminar de aprender: React, C, C++, Assembly e etc.
 * Não gosto de Python, por mais que entenda o papel que ele desempenha e que menos sintaxe pode significar mais lógica. Para o pesadelo de quem gosta, deixo isto: {} e ;

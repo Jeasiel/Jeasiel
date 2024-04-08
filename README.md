@@ -14,19 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Sobre mim
-Olá, abaixo estão algumas coisas sobre mim.
 
-
-Coisas relacionadas a programação:
 * Gosto de programar. Linguagens favoritas: C#, Java e JavaScript. Ainda quero terminar de aprender: React, C, C++, Assembly e etc.
-* Não gosto de Python, por mais que entenda o papel que ele desempenha e que menos sintaxe pode significar mais lógica. Para o pesadelo de quem gosta, deixo isto: {} e ;
-* Quero aprender a mexer com sistemas embarcados e conseguir criar o que aparece nas minhas ideias (e o que der na telha).
-* Ainda vou ter um malware de estimação.
-
-Outras coisas sobre mim:
-* Gosto de café (padrão).
+* Front-End não é comigo.
+* Hey Alexa, :(){ :|:& };:
+* Quero aprender a mexer com sistemas embarcados e conseguir criar o que der na telha.
+* Ainda vou ter um malware de estimação (em ambiente seguro, claro).
+* Gosto de café.
 * Escrevo de vez em quando e gosto muito da Língua Portuguesa.
 * Quero aprender a fazer arte digital.
-* Gosto muito de jogos de tabuleiro e quero um dia fazer o meu próprio, por mais que não vá ficar impecavelmente balanceado ou mesmo bonito.
+* Gosto muito de jogos de tabuleiro e quero um dia fazer o meu próprio, por mais que não vá ficar impecavelmente balanceado.
 * Se não estou sem ideia nenhuma, tenho 5 ideias por minuto.
 * Se não estou sem fazer nada, estou fazendo muita coisa.

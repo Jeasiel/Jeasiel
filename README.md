@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Sobre mim
 
-* Linguagens favoritas: C#, Java e JavaScript. Ainda quero terminar de aprender: React, C, C++, Assembly e etc.
+* Linguagens favoritas: C#, Java e JavaScript. Ainda quero terminar de aprender: React, C++, Zig e etc.
+* Linguagens pouco usadas, mas sei por onde vai: Python e C.
 * Front-End não é comigo.
 * :(){ :|:& };:
